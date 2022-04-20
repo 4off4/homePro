@@ -11,6 +11,7 @@
 현재 신청하기는 막아뒀습니다.
 
 ## Initial screen
+![인천스카이센터](https://user-images.githubusercontent.com/76087709/164152844-16a16f4f-41d9-45b6-a0f7-b8b6762814e9.PNG)
 
 ## URL
 [✨인천 스카이센터](https://4off4.github.io/homePro/)
